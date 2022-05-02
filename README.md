@@ -8,5 +8,5 @@ Neko daudz par sevi nepastāstīšu, bet galvenie punkti ir šādi:
 
 * Pēdējos divus gadus strādāju [SIA "Codex"](https://www.codex.lv/) kā manuālais testētājs.
 
-![kaķa bilde](./img/cat2.jfif)
+![attēls](./img/cat2.jpg)
 
