@@ -1,4 +1,4 @@
-## Par mani
+# Par mani
 
 Neko daudz par sevi nepastāstīšu, bet galvenie punkti ir šādi:
 
@@ -9,4 +9,3 @@ Neko daudz par sevi nepastāstīšu, bet galvenie punkti ir šādi:
 * Pēdējos divus gadus strādāju [SIA "Codex"](https://www.codex.lv/) kā manuālais testētājs.
 
 ![attēls](./img/cat2.jpg)
-
